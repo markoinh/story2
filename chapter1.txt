@@ -1,2 +1,3 @@
 This is a new story
 This is a great story. yay
+Write and practice merging and branchin with git and github
